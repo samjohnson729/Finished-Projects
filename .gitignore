@@ -1,3 +1,8 @@
+# My Custom Files to Exclude
+*~
+*.app
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
